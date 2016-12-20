@@ -4,6 +4,9 @@
 #include <boost/regex.hpp>
 #include <iostream>
 #include <string>
+#include "md5.h"
+#include "sha256.h"
+
 
 // Problem with using Boost Library, cannot open libboost_regex-vc140-mt-gd-1_62.lib
 
